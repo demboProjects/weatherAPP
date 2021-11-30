@@ -10,3 +10,4 @@ window.addEventListener("load", () => {
         })
     }
 })
+console.log("é isso ai");
